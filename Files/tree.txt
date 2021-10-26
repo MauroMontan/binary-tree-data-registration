@@ -1,0 +1,19 @@
+ESTE ARCHIVO ORDENA DE MENOR A MAYOR USANDO
+el METODO DE BUSQUEDA "INORDER" DE UN ARBOL BINARIO
+
+CADA QUE SE CREA UN NUEVO ELEMENTO SE GENERARA EL ORDENAMIENTO
+DE LOS ID´S DE LOS PRODUCTOS
+
+____________________________________________________________
+
+
+
+
+------------------------------------
+0 1 
+
+------------------------------------
+0 1 4 
+
+------------------------------------
+0 1 4 7 
